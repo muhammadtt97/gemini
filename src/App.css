@@ -1,0 +1,6 @@
+.app {
+    display: flex;
+    height: 100%;
+    width: 100vw; /* Make the app container take up full viewport height */
+  }
+  

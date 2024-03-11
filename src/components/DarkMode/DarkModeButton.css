@@ -1,0 +1,22 @@
+.dark-mode-toggle {
+    position: fixed;
+    top: 20px;
+    right: 70px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Style the button differently based on the dark mode state */
+  .dark-mode-toggle.light-mode {
+    background-color: #ffffff;
+    color: #333333;
+  }
+  
+  .dark-mode-toggle.dark-mode {
+    background-color: #333333;
+    color: #ffffff;
+  }
+  
